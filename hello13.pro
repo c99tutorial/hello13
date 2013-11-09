@@ -31,3 +31,7 @@ SOURCES += main.c \
 HEADERS += \
     say_hello.h
 
+OTHER_FILES += \
+    README.md \
+    LICENSE
+
