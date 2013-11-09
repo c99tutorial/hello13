@@ -29,7 +29,7 @@ SOURCES += main.c \
     say_hello.c
 
 HEADERS += \
-    say_hello.h
+    say_hello1.h
 
 OTHER_FILES += \
     README.md \
