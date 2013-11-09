@@ -25,5 +25,9 @@ LIBS += -limm32
 LIBS += -lversion
 LIBS += -lz
 
-SOURCES += main.c
+SOURCES += main.c \
+    say_hello.c
+
+HEADERS += \
+    say_hello.h
 
